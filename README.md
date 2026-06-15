@@ -8,7 +8,8 @@ It creates strong random passwords using letters, numbers, and symbols.
 ## ⚙️ Features
 - Randomly generates secure passwords  
 - Allows custom password length  
-- Simple command-line interface  
+- Simple command-line interface
+- Easy to use
 
 ---
 
